@@ -10,7 +10,7 @@ Convert plain text into Minecraft schematics using a built-in pixel font. Paste 
 - Configurable block type, character gap, and line gap
 - Outputs a `.schem` file compatible with Litematica and WorldEdit
 - Multi-line text support
-- Lightweight — no external dependencies beyond `mcschematic`
+- Lightweight - no external dependencies beyond `mcschematic`
 
 ---
 
