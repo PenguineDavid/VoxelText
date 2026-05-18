@@ -122,7 +122,15 @@ Any version supported by the `mcschematic` library. Common options:
 
 ## License
 
-[PolyForm Noncommercial License 1.0.0](LICENSE)
+VoxelText - A python script for generating minecraft schematics 
+Copyright (C) 2026 PenguineDavid
+
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU General Public License as published by  
+the Free Software Foundation, either version 3 of the License, or  
+(at your option) any later version.
+
+See the [LICENSE](https://github.com/PenguineDavid/VoxelText?tab=GPL-3.0-1-ov-file) file for the full license text.
 
 ---
 
